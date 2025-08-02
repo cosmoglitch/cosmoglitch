@@ -31,7 +31,7 @@
 
 <!-- Profile Views -->
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=sanchivarma&label=Profile%20views&color=0e75b6&style=plastic" alt="sanchivarma" /> 
+	<img src="https://komarev.com/ghpvc/?username=cosmoglitch&label=Profile%20views&color=0e75b6&style=plastic" alt="sanchivarma" /> 
 </p>
  
 ```javascript
@@ -114,9 +114,9 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="width: 30px;" width="30" />  My Github Stats
 </p>	
 <!-- **** Generic Github Stats
-![sanchivarma's github stats](https://github-readme-stats.vercel.app/api?username=sanchivarma&show_icons=true&theme=dark)
+![sanchivarma's github stats](https://github-readme-stats.vercel.app/api?username=cosmoglitch&show_icons=true&theme=dark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchivarma&theme=dark" alt="mystreak"/><br/>
-![sanchivarma's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchivarma&theme=dark&layout=compact)
+![sanchivarma's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoglitch&theme=dark&layout=compact)
 -->
 
 <!-- Projects I am currently working on
@@ -125,12 +125,12 @@
 </summary>
   
 <br />
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanchivarma&repo=TEST-Repo)](https://github.com/sanchivarma/TestJava)>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cosmoglitch&repo=TEST-Repo)](https://github.com/sanchivarma/TestJava)>
 <br />
 </details>
 End of projects I'm Working On -->
 
-<!-- img src="https://github-readme-stats.vercel.app/api?username=sanchivarma&show_icons=true&theme=gotham"/ -->
+<!-- img src="https://github-readme-stats.vercel.app/api?username=cosmoglitch&show_icons=true&theme=gotham"/ -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmoglitch&theme=gotham" alt="mystreak"/> <br/> <img src="https://raw.githubusercontent.com/cosmoglitch/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg"/>
 <img src="https://raw.githubusercontent.com/cosmoglitch/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg"/><img src="https://raw.githubusercontent.com/cosmoglitch/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg"/>
@@ -143,19 +143,19 @@ End of projects I'm Working On -->
 	<h4>Achievements</h4>
 </summary>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=sanchivarma&theme=darkhub&no-frame=true&column=7">
+    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=cosmoglitch&theme=darkhub&no-frame=true&column=7">
 </a>
 </details -->
 <br/>
 
 
-<!-- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=sanchivarma&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!-- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=cosmoglitch&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-<!-- img src="https://activity-graph.herokuapp.com/graph?username=sanchivarma&theme=react-dark"/ -->
+<!-- img src="https://activity-graph.herokuapp.com/graph?username=cosmoglitch&theme=react-dark"/ -->
 
 <!-- ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanchivarma&layout=compact&theme=algolia" alt="sanchivarma" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cosmoglitch&layout=compact&theme=algolia" alt="sanchivarma" /></a> </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 
